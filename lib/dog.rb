@@ -19,4 +19,6 @@ class Dog
   def breed
     @breed
   end
+  
+  breed = "Mutt"
 end
